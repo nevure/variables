@@ -1,5 +1,8 @@
 /**
+ * Fase1 - Ejercico de Variables
  * @author Rubén Rodríguez
+ * IT Academy
+ * Barcelona Activa
  *
  */
 public class Fase1 {
