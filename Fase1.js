@@ -7,7 +7,6 @@
  */
 
 let nom = "Rubén", cognom1 = "Rodríguez", cognom2 = "Fernández"
-	
 let dia = 25, mes = 1, any = 1977
 
 console.log(nom + " " + cognom1 + " " + cognom2)

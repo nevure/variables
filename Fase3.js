@@ -11,7 +11,7 @@ let anyNaixement = 1977
 let esAnyDeTraspas = false
 let siHoEs = "El teu any de naixement SI és un any de traspàs"
 let noHoEs = "El teu any de naixement NO és un any de traspàs"
-let traspas = 9;
+let traspas = 7;
 
 
 

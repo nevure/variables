@@ -10,8 +10,8 @@ const INICI_TRASPAS = 1948;
 let traspas = 4;
 let anysDeTraspas;
 let anyNaixement = 1977
+
 // Càlcul dels anys de traspàs 
-		
 anysDeTraspas = Math.floor(( anyNaixement - INICI_TRASPAS ) / traspas) 
 			
 //imprimim per pantalla el resultat:
